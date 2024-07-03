@@ -1,0 +1,13 @@
+
+@media (max-width: 900px) {
+  .fa-bars {
+    font-size: 28px;
+    display: block;
+  }
+  nav {
+    display: none;
+  }
+  .mainbanner {
+    display: none;
+  }
+}
